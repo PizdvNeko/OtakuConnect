@@ -1,0 +1,7 @@
+{
+    "name": "website pages",
+    "userpages": ["firstpage.php", "loginForm.php", "signinForm.php", "userOption.php", "userpage.php", "userOptionModify.php",
+     "followerPage.php", "animePage.php", "communityPage.php", "createCommunity.php", "community_posts.php", "animeInspect.php", "animeForm.php"],
+    "phponlypages": ["login.php", "signin.php", "addPost.php", "addComment.php", "deletePost.php", "deleteComment.php", "insertLike.php",
+     "modifyUser.php", "insertFollow.php", "search.php", "addCommunity.php", "insertFollowAnime.php", "addAnime.php"]
+}
